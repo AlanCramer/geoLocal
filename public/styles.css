@@ -1,0 +1,13 @@
+/* public/styles.css */
+#mapCanvas {
+    border: 1px solid black;
+}
+
+#coordinates {
+    margin-top: 10px;
+}
+
+#coordinates p {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
